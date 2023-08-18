@@ -29,7 +29,7 @@ button:hover{
 .main{
     background-color: black;
     width: 100%;
-    height: 700px;
+    height: 80%;
     display: flex;
     padding: 10px;
 }
@@ -534,7 +534,7 @@ hr{
 }
 .bottom{
     width: 1582px;
-    height: 60px;
+    height: 20%;
     /* background-color: red; */
     background-image:linear-gradient(90deg, #ae2b98, #7b67ca, #519bf5);
     background-image: linear-gradient(90deg, #ae2b98 0%, #7b67ca 50%, #519bf5 100%);
